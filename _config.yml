@@ -1,0 +1,33 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 4000
+safe: true
+url: https://dogun-kim.github.io/
+author: Dogun Kim
+
+# edit this section with your information
+# jekyller.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: ""
+title: Dogun Kim
+name: Dogun Kim
+email: dgkimk93@gmail.com
+email_full: mailto:dgkimk93@gmail.com
+website: github.io
+website_full: https://dogun-kim.github.io/
+github: #Dogun-Kim
+twitter: twitter
+tel: +44 0000 000000
+tel_full: tel:+440000000000
+address:
+  street:
+  postcode:
+  city:
+  country:
+# needed for travis-ci build
+exclude: [vendor]
