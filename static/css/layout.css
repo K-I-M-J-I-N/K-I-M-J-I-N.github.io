@@ -38,8 +38,8 @@ p, address {
 }
 
 .me {
-    width: 140px;
-    height: 140px;
+    width: 150px;
+    height: 150px;
     border-radius: 50px;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
@@ -149,7 +149,7 @@ em {
     }
 
     .container > header {
-        font-size: 80%;
+        font-size: 70%;
         line-height: 160%;
     }
 
