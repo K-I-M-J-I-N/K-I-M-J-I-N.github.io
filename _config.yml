@@ -7,20 +7,20 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://dogun-kim.github.io/
-author: Dogun Kim
+url: https://kim-jin.github.io/
+author: Jin Kim
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: ""
-title: Dogun Kim
-name: Dogun Kim
-email: dgkimk93@gmail.com
-email_full: mailto:dgkimk93@gmail.com
+title: Jin Kim
+name: Jin Kim
+email: jinmerong@gamil.com
+email_full: mailto:jinmerong@gamil.com
 website: github.io
-website_full: https://Dogun-Kim.github.io/
-github: https://github.com/DoGunKIM93
+website_full: https://kim-jin.github.io/
+github: https://github.com/jinmerong
 google_scholar: https://scholar.google.com/citations?hl=en&user=mC9yZBAAAAAJ
 twitter: twitter
 tel: +44 0000 000000
