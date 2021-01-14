@@ -8,7 +8,7 @@ plugins: [jekyll-paginate]
 port: 4000
 safe: true
 url: 'https://K-I-M-J-I-N.github.io'
-baseurl: '/page'
+baseurl: '/'
 author: Jin Kim
 
 # edit this section with your information
