@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: https://kim-jin.github.io/
+url: /
 author: Jin Kim
 
 # edit this section with your information
@@ -19,8 +19,8 @@ name: Jin Kim
 email: jinmerong@gamil.com
 email_full: mailto:jinmerong@gamil.com
 website: github.io
-website_full: https://kim-jin.github.io/
-github: https://github.com/jinmerong
+website_full: /
+github: https://github.com/K-I-M-J-I-N
 google_scholar: https://scholar.google.com/citations?hl=en&user=mC9yZBAAAAAJ
 twitter: twitter
 tel: +44 0000 000000
